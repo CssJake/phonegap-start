@@ -1,4 +1,5 @@
 # Upgrading the Application
+<<<<<<< HEAD
 
 The application is based on the Apache Cordova Hello World example.
 
@@ -17,3 +18,5 @@ Do not replace `www/img/logo.png`.
 
 Replace `<h1>Apache Cordova</h1>` with `<h1>PhoneGap</h1>`.
 
+=======
+>>>>>>> parent of a5dad76... Update app for PhoneGap.
