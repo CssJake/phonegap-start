@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.iCode"
+        id        = "com.cssjake.iCode"
         version   = "2.0.0">
     <name>iCode is amazing!</name>
 
@@ -9,7 +9,7 @@
         You have to admit it, this is the shizzle. iCode.org.uk is unstoppable. 
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
+    <author href="http://icode.org.uk" email="register@icode.org.uk.com">
         The iCode Team
     </author>
 
