@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.hello-world"
+        id        = "com.phonegap.iCode"
         version   = "2.0.0">
     <name>iCode is amazing!</name>
 
     <description>
-        You have to admit it, this is the shizzle. iCode is unstoppable. 
+        You have to admit it, this is the shizzle. iCode.org.uk is unstoppable. 
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
